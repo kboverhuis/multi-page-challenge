@@ -1,0 +1,15 @@
+body {
+  text-align: center;
+  background-color: #bdc7c6;
+  margin: 40px;
+}
+
+.photo-croissant {
+  display: block;
+  margin: auto;
+  width: 600px;
+}
+
+.links {
+ margin-top: 40px;
+}
